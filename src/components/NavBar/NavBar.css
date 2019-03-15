@@ -1,0 +1,24 @@
+.NavBar {
+  padding: 5%;
+  align-items: center;
+}
+
+.container-navbar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link:hover{
+  color: rgb(126, 26, 168);
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(242, 230, 247);
+  font-weight: bold;
+  margin-left: 10%;
+}
+
+.logo {
+  position: absolute;
+}
